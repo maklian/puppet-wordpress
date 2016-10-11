@@ -1,8 +1,8 @@
 class wordpress::conf {
-    $root_password = 'W0rdPr3s$'
+    $root_password = 'XXXXXXXX'
     $db_name = 'wordpress'
     $db_user = 'wp'
-    $db_user_password = 'W0rdPr3s$'
+    $db_user_password = 'XXXXXXXX'
     $db_host = 'localhost'
 
     # Don't change the following variables
